@@ -3,4 +3,4 @@ layout: page
 type: about
 ---
 
-Building...
+过一个美妙的人生并不难
